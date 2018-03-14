@@ -1,0 +1,52 @@
+{
+    "name": "A",
+    "children": [
+        {
+            "name": "AA",
+            "children": [
+                {
+                    "name": "AAA",
+                    "children": [
+                        {
+                            "name": "AAAA"
+                        },
+                        {
+                            "name": "AAAB"
+                        }
+                    ]
+                },
+                {
+                    "name": "AAB"
+                }
+            ]
+        },
+        {
+            "name": "AB",
+            "children": [
+                {
+                    "name": "ABA"
+                },
+                {
+                    "name": "ABB"
+                },
+                {
+                    "name": "ABC",
+                    "children": [
+                        {
+                            "name": "ABCA"
+                        },
+                        {
+                            "name": "ABCB"
+                        },
+                        {
+                            "name": "ABCC"
+                        },
+                        {
+                            "name": "ABCC"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
